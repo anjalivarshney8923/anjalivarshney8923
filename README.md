@@ -24,7 +24,7 @@ I have hands-on experience developing real-world projects, including a full-stac
 
 - 🌍 [**Pragati - Rural Governance & Citizen Engagement Platform**](https://github.com/anjalivarshney8923/Pragati) – A digital governance platform designed to bring transparency, accountability, and citizen participation into rural administration. Empowers villagers with access to government fund allocation, development projects, and local governance activities.
 
-- 💡 [**Global IPI Platform - Intellectual Property Intelligence**](https://github.com/anjalivarshney8923/global-ipi-platform) – A full-stack platform developed as part of the Infosys Springboard Internship Program to help innovators, law firms, and R&D teams monitor global intellectual property activity. Includes patent and trademark search, analytics dashboards, filing tracking, and subscription management.
+- 💡 [**Global IPI Platform - Intellectual Property Intelligence**](https://github.com/anjalivarshney8923/global-ipi-platform-project) – A full-stack platform developed as part of the Infosys Springboard Internship Program to help innovators, law firms, and R&D teams monitor global intellectual property activity. Includes patent and trademark search, analytics dashboards, filing tracking, and subscription management.
 
   **Tech Stack:** Java, Spring Boot, React.js, Spring Security, PostgreSQL, Firebase.
 
