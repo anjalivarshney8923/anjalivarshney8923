@@ -13,13 +13,30 @@ I have hands-on experience developing real-world projects, including a full-stac
 📧 Contact: anjalivarshney405@gmail.com
 ---
 
+
 ## 💼 Featured Projects
 
-- 🌍 [**Pragati - Rural Governance & Citizen Engagement Platform**](https://github.com/anjalivarshney8923/Pragati)) – Pragati is a digital governance platform designed to bring transparency, accountability, and citizen participation into rural administration. It empowers villagers by providing real-time access to government fund allocation, development projects, and local governance activities.
+### 🏢 Enterprise & Full Stack Applications
 
-- 💬 [**Global-IPI-PLatform**](https://github.com/anjalivarshney8923/global-ipi-platform) —This is a full-stack web platform designed to help innovators, law firms, and R&D teams monitor global intellectual property activity
+- 🏭 [**IOCL - Consumables & Procurement Management System**](https://github.com/anjalivarshney8923/consumables-automation-project) – A full-stack enterprise application that streamlines procurement, rate contract management, inventory tracking, and operational reporting. Features JWT-based authentication, role-based access for Admins and Engineers, automated stock alerts, email notifications, and Excel/CSV exports.
+  
+  **Tech Stack:** Java, Spring Boot, React.js, PostgreSQL, JWT, Hibernate, Apache POI.
 
-- 💬 [**ShareBite**](https://github.com/anjalivarshney8923/ShareBite) —ShareBite is a community-driven platform designed to reduce food waste and fight hunger by connecting people with surplus food to those who need it. Whether it’s leftover meals, excess groceries, or food from events and restaurants, ShareBite makes sharing simple, safe, and impactful.
+- 🌍 [**Pragati - Rural Governance & Citizen Engagement Platform**](https://github.com/anjalivarshney8923/Pragati) – A digital governance platform designed to bring transparency, accountability, and citizen participation into rural administration. Empowers villagers with access to government fund allocation, development projects, and local governance activities.
+
+- 💡 [**Global IPI Platform - Intellectual Property Intelligence**](https://github.com/anjalivarshney8923/global-ipi-platform) – A full-stack platform developed as part of the Infosys Springboard Internship Program to help innovators, law firms, and R&D teams monitor global intellectual property activity. Includes patent and trademark search, analytics dashboards, filing tracking, and subscription management.
+
+  **Tech Stack:** Java, Spring Boot, React.js, Spring Security, PostgreSQL, Firebase.
+
+### 🌱 Web Development Projects
+
+- 🍲 [**ShareBite - Community Food Sharing Platform**](https://github.com/anjalivarshney8923/ShareBite) – A community-driven platform designed to reduce food waste and fight hunger by connecting people with surplus food to those who need it.
+
+- 🌦️ [**Weather App**](https://github.com/anjalivarshney8923/weather-app) – A real-time weather forecasting web application built with React and API integration, featuring dynamic data rendering, responsive UI, and modern design principles.
+
+### 🧠 Problem Solving & Coding Practice
+
+- ☕ [**Java DSA - LeetCode Solutions**](https://github.com/anjalivarshney8923/Java-DSA) – A collection of Data Structures and Algorithms problems solved in Java, demonstrating consistent coding practice, algorithmic thinking, and preparation for technical interviews.
 
 
 # 💻 Tech Stack:
